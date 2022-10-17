@@ -1,7 +1,3 @@
-# 8/23/22: [PLAYHYDRA has been archived](https://wqqcwh.csb.app/index.html)
-# PLAYHYDRA
-*Blocked and unblocked **1** time so far*!
-
 [![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/liamhtml/playhydra) [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/replit.svg)](https://replit.com/github/liamhtml/playhydra)
 
 # overview
